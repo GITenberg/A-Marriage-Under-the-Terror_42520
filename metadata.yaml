@@ -1,0 +1,41 @@
+_repo: A-Marriage-Under-the-Terror_42520
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42520-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Wentworth, Patricia
+    aliases:
+    - Turnbull, Dora Amy
+    - Elles, Dora Amy
+    birthdate: 1878
+    deathdate: 1961
+    gutenberg_agent_id: '41726'
+    url: http://www.gutenberg.org/2009/agents/41726
+description: <p><B>The award-winning debut from one of Britain's most cherished crime
+  writers</B><p><BR />Before she created the iconic Miss Silver, Patricia Wentworth
+  found acclaim as an author of page-turning romances. Set during the French Revolution,
+  <I>A Marriage Under the Terror</I> is a gripping tale of love blossoming in the
+  ashes of betrayal, and a fascinating first step from a master storyteller.<p><BR
+  />Nineteen-year-old orphan Aline de Rochambeau is horrified at the prospect of an
+  arranged marriage to the foppish Vicomte Selincourt. But when Selincourt and Madame
+  de Montargis, Aline's married aunt, are unmasked as lovers and arrested for treason,
+  the young noblewoman's situation grows even more drastic. Alone in a Paris engulfed
+  in revolt, Aline has no chance of survival&#8212;until she meets the dashing freedom
+  fighter Jacques Dangeau. Torn between his vow to liberate France and his passion
+  for Aline, Jacques makes a choice that could doom both of them forever.<p><BR />Published...
+gutenberg_issued: '2013-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42520'
+  lccn: '10010188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcc 'PR'
+title: A Marriage Under the Terror
+url: http://www.gutenberg.org/ebooks/42520
